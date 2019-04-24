@@ -26,7 +26,7 @@ int score = 0;
 
 int main(void){
 	char tecla;
-	barra(); //Chamada da funçao de inicialização 
+	barra(); //Chamada da funçao de inicialização       
 	imprimir();
 	while(d){
 		
